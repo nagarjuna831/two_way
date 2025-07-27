@@ -1,0 +1,8 @@
+check number even odd
+check number is positive or negative or zero
+Check if a character is a vowel or consonant
+Check if a character is uppercase or lowercase
+Find the grade of a student based on marks
+Check if a person is a child, teenager, or adult
+Determine the time of the day
+check drunker type
